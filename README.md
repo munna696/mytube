@@ -1,2 +1,2 @@
 # mytube
-its video tube script
+its a simple video shareing script model .
